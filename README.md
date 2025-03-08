@@ -13,6 +13,7 @@ If you want to talk to me, the best way is to add me on Discord (@tolvukisa) or 
 
 <div align="center">
   <img width=300 src=https://github.com/user-attachments/assets/0c58e770-f192-42a1-8756-47eeabbdaf63></img>
+<p>&nbsp;</p>
 <p>—</p>
 <p>Have fun! 🧡</p>
 </div>
