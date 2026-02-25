@@ -9,7 +9,7 @@ I occasionally develop things that I think are cool and/or useful. Here are a fe
 - [Kaffi](https://mage.black/kaffi/) — A website for the coffee recipes I use.
 - [Booz](https://mage.black/booz/) — A website where I collect cocktail recipes, powered by [Django](https://www.djangoproject.com/).
 
-If you want to talk to me, the best way is to add me on Discord (@tolvukisa) or you can email me on e@mage.black.
+If you want to talk to me, the best way is to add me on Discord (@tolvuvoffi) or you can email me on e@mage.black.
 
 <div align="center">
   <img width=300 src=https://github.com/user-attachments/assets/0c58e770-f192-42a1-8756-47eeabbdaf63></img>
